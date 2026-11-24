@@ -1,0 +1,3 @@
+rank,conf_id,E_kcalmol,dE_kJmol,boltzmann_298K,in_window,rotatable bond 1-3,hydroxyl H-O0-1-2,hydroxyl H-O7-6-5
+1,19,0.0461,0.000,0.5447,True,0,0,180
+2,74,0.1524,0.445,0.4553,True,0,0,0
